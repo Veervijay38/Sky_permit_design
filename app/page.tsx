@@ -57,7 +57,7 @@ export default function HomePage() {
   return (
     <>
       {/* ───────── HERO ───────── */}
-      <section className="relative min-h-screen flex items-end pb-24 pt-40 overflow-hidden grid-overlay">
+      <section className="relative bg-charcoal-900 min-h-screen flex items-end pb-24 pt-40 overflow-hidden grid-overlay">
         {/* Decorative vertical lines */}
         <div className="absolute top-0 left-[20%] w-px h-full bg-gradient-to-b from-transparent via-gold/10 to-transparent" />
         <div className="absolute top-0 right-[30%] w-px h-full bg-gradient-to-b from-transparent via-gold/6 to-transparent" />
