@@ -13,11 +13,11 @@ export const metadata: Metadata = {
 const values = [
   {
     title: "Precision First",
-    desc: "Every drawing we produce is reviewed against the Ontario Building Code and your municipality's requirements before delivery. One missed dimension can delay a project by weeks — we don't allow that.",
+    desc: "Every drawing we produce is reviewed against the Ontario Building Code and your municipality&apos;s requirements before delivery. One missed dimension can delay a project by weeks — we don&apos;t allow that.",
   },
   {
     title: "Clarity & Transparency",
-    desc: "No confusing pricing structures. No scope creep surprises. You receive a clear quote before we begin, and we stick to it. Our clients know exactly what they're getting and when.",
+    desc: "No confusing pricing structures. No scope creep surprises. You receive a clear quote before we begin, and we stick to it. Our clients know exactly what they&apos;re getting and when.",
   },
   {
     title: "Fast Without Compromise",
@@ -74,14 +74,14 @@ export default function AboutPage() {
               </SectionHeading>
               <div className="space-y-5 text-slate-light font-body text-sm leading-relaxed">
                 <p>
-                  Residential building permits in Ontario are a necessary step — but the process doesn't
+                  Residential building permits in Ontario are a necessary step — but the process doesn&apos;t
                   have to be confusing, expensive, or slow. Too many homeowners start a project without
-                  understanding what's required, and end up spending weeks navigating rejections and
+                  understanding what&apos;s required, and end up spending weeks navigating rejections and
                   resubmissions.
                 </p>
                 <p>
                   We started Sky Permit Designs to change that. Our team consists of BCIN-certified
-                  designers who know Ontario's building code inside and out, and who approach every
+                  designers who know Ontario&apos;s building code inside and out, and who approach every
                   project with the goal of getting your permit approved on the first attempt.
                 </p>
                 <p>
@@ -108,7 +108,7 @@ export default function AboutPage() {
 
               <div className="bg-charcoal-900 border border-white/8 p-8">
                 <h3 className="font-display text-xl text-cream-200 font-light mb-3">
-                  Serving Ontario's Homeowners & Contractors
+                  Serving Ontario&apos;s Homeowners & Contractors
                 </h3>
                 <p className="font-body text-sm text-slate-warm leading-relaxed mb-4">
                   From Ajax to Mississauga, Whitby to Vaughan — we understand the specific requirements

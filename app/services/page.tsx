@@ -15,7 +15,7 @@ const services = [
     number: "01",
     title: "Deck Permit Drawings",
     description:
-      "A permit-ready deck drawing is the foundation of every successful deck project in Ontario. Our drawings include all required structural details — foundation, framing, guardrails, connections, and dimensions — to meet your municipality's exact requirements.",
+      "A permit-ready deck drawing is the foundation of every successful deck project in Ontario. Our drawings include all required structural details — foundation, framing, guardrails, connections, and dimensions — to meet your municipality&apos;s exact requirements.",
     includes: [
       "Site plan showing deck location and setbacks",
       "Framing plan and cross-section details",
@@ -57,7 +57,7 @@ const services = [
     number: "04",
     title: "Garage & Accessory Structure Plans",
     description:
-      "Whether you're building a detached garage, workshop, or converting an attached garage into living space, we prepare drawings to satisfy your municipality's zoning and structural requirements.",
+      "Whether you&apos;re building a detached garage, workshop, or converting an attached garage into living space, we prepare drawings to satisfy your municipality&apos;s zoning and structural requirements.",
     includes: [
       "Site plan with zoning setback compliance",
       "Foundation and floor slab details",
@@ -99,7 +99,7 @@ export default function ServicesPage() {
             </h1>
             <p className="font-body text-base text-slate-light leading-relaxed font-light max-w-xl">
               Every service we provide is performed by a BCIN-certified designer using professional AutoCAD
-              software — delivering drawings that meet the Ontario Building Code and your municipality's
+              software — delivering drawings that meet the Ontario Building Code and your municipality&apos;s
               standards on the first submission.
             </p>
           </div>
@@ -135,7 +135,7 @@ export default function ServicesPage() {
                     <div className="grid md:grid-cols-2 gap-8">
                       <div>
                         <h4 className="font-body text-xs tracking-[0.2em] uppercase text-gold mb-4 font-medium">
-                          What's Included
+                          What&apos;s Included
                         </h4>
                         <div className="space-y-3">
                           {service.includes.map((item) => (
@@ -174,7 +174,7 @@ export default function ServicesPage() {
             Not sure which service fits your project?
           </h2>
           <p className="font-body text-sm text-charcoal-700 mb-8 leading-relaxed">
-            Reach out for a free consultation. We'll review your project and recommend exactly what's
+            Reach out for a free consultation. We&apos;ll review your project and recommend exactly what&apos;s
             needed for permit approval in your municipality.
           </p>
           <Link

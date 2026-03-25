@@ -32,7 +32,7 @@ const services = [
   {
     number: "04",
     title: "Residential Permit Packages",
-    desc: "Full permit drawing packages tailored to your municipality's specific requirements for smooth, fast approvals.",
+    desc: "Full permit drawing packages tailored to your municipality&apos;s specific requirements for smooth, fast approvals.",
     tag: null,
   },
 ];
@@ -197,7 +197,7 @@ export default function HomePage() {
             <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-8 mb-16">
               <div>
                 <SectionTag>Recent Work</SectionTag>
-                <SectionHeading>Projects We've<br />Brought to Life</SectionHeading>
+                <SectionHeading>Projects We&apos;ve<br />Brought to Life</SectionHeading>
               </div>
               <Link
                 href="/portfolio"
@@ -293,7 +293,7 @@ export default function HomePage() {
               <p className="font-body text-sm text-slate-warm leading-relaxed mb-10">
                 We understand that permit delays cost you time and money. Our drawings are engineered
                 to get approved on the first submission — precise, detailed, and aligned with every
-                municipality's requirements across Ontario.
+                municipality&apos;s requirements across Ontario.
               </p>
               <div className="grid grid-cols-1 gap-4">
                 <CheckItem>BCIN-certified designer on every project</CheckItem>
@@ -312,7 +312,7 @@ export default function HomePage() {
                   </div>
                   <p className="font-body text-sm text-slate-warm leading-relaxed">
                     Our clients come back to us because our drawings get approved — not revised and resubmitted.
-                    We invest the time upfront so you don't pay penalties or wait months for a permit.
+                    We invest the time upfront so you don&apos;t pay penalties or wait months for a permit.
                   </p>
                   <div className="divider-gold" />
                   <div className="flex items-center gap-4">
@@ -367,7 +367,7 @@ export default function HomePage() {
               <em className="text-gold not-italic">done right.</em>
             </h2>
             <p className="font-body text-sm text-slate-warm max-w-lg mx-auto leading-relaxed mb-10">
-              Contact us today for a free, no-obligation quote. We'll review your project, confirm timelines,
+              Contact us today for a free, no-obligation quote. We&apos;ll review your project, confirm timelines,
               and provide a clear price — usually within the same business day.
             </p>
             <div className="flex flex-wrap items-center justify-center gap-4">

@@ -203,7 +203,7 @@ export default function PortfolioPage() {
             <SectionTag>Start Your Project</SectionTag>
             <SectionHeading className="mb-6">Ready to Add Your<br />Project to This List?</SectionHeading>
             <p className="font-body text-sm text-slate-warm max-w-md mx-auto leading-relaxed mb-10">
-              Tell us about your project and we'll provide a free quote, timeline estimate, and everything
+              Tell us about your project and we&apos;ll provide a free quote, timeline estimate, and everything
               you need to move forward with confidence.
             </p>
             <Link

@@ -17,7 +17,7 @@ const steps = [
     title: "Free Consultation",
     subtitle: "Day 1 — Same day response",
     description:
-      "Every project starts with a conversation. Reach out by phone, email, or our contact form and tell us about your project — scope, location, and what you're looking to build. We'll let you know exactly what drawings are required for your municipality, our timeline, and a flat-rate quote.",
+      "Every project starts with a conversation. Reach out by phone, email, or our contact form and tell us about your project — scope, location, and what you&apos;re looking to build. We&apos;ll let you know exactly what drawings are required for your municipality, our timeline, and a flat-rate quote.",
     details: [
       "No-obligation project assessment",
       "Municipality-specific requirements confirmed",
@@ -45,7 +45,7 @@ const steps = [
     title: "AutoCAD Drafting",
     subtitle: "Day 2–5 — We do the work",
     description:
-      "Our BCIN-certified designers draft your complete permit drawing set using professional AutoCAD software. Every drawing is produced to meet your municipality's specific format, scale, and annotation requirements. We check every sheet against current Ontario Building Code standards before release.",
+      "Our BCIN-certified designers draft your complete permit drawing set using professional AutoCAD software. Every drawing is produced to meet your municipality&apos;s specific format, scale, and annotation requirements. We check every sheet against current Ontario Building Code standards before release.",
     details: [
       "Professional AutoCAD drafting by certified staff",
       "Full Ontario Building Code review",
@@ -71,9 +71,9 @@ const steps = [
     number: "05",
     icon: Clock,
     title: "Permit Support",
-    subtitle: "Ongoing — We're in your corner",
+    subtitle: "Ongoing — We&apos;re in your corner",
     description:
-      "Your relationship with us doesn't end at delivery. If the city or municipality requests revisions, clarifications, or additional information, we handle those quickly and at no extra cost for minor adjustments. We want your permit approved as much as you do.",
+      "Your relationship with us doesn&apos;t end at delivery. If the city or municipality requests revisions, clarifications, or additional information, we handle those quickly and at no extra cost for minor adjustments. We want your permit approved as much as you do.",
     details: [
       "Minor revision support included",
       "City or inspector queries answered",
@@ -90,7 +90,7 @@ const faqs = [
   },
   {
     q: "Do I need to be home for measurements?",
-    a: "For many projects, existing surveys and simple homeowner-provided measurements are sufficient. We'll let you know upfront if a site visit is necessary.",
+    a: "For many projects, existing surveys and simple homeowner-provided measurements are sufficient. We&apos;ll let you know upfront if a site visit is necessary.",
   },
   {
     q: "What is a BCIN certification?",
@@ -242,7 +242,7 @@ export default function ProcessPage() {
               Ready to get started?
             </h2>
             <p className="font-body text-sm text-slate-warm max-w-md mx-auto mb-10 leading-relaxed">
-              The whole process begins with one call or message. We'll take it from there.
+              The whole process begins with one call or message. We&apos;ll take it from there.
             </p>
             <Link
               href="/contact"
